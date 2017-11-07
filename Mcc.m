@@ -2,5 +2,5 @@
 Void main()
 Printf("mcc....!!!");
 
-Printf("/ncollege in mulund");
+Printf("/ncollge in mulund");
 }
